@@ -1,0 +1,18 @@
+[project]
+name = "hw1"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "gymnasium[box2d]>=1.2.3",
+    "ipykernel>=7.2.0",
+    "jupyterlab>=4.5.7",
+    "matplotlib>=3.10.9",
+    "moviepy==1.0.3",
+    "numpy>=2.4.4",
+    "rich>=15.0.0",
+    "stable-baselines3>=2.0",
+    "swig>=4.4.1",
+    "torch>=2.11.0",
+    "tqdm>=4.67.3",
+]
