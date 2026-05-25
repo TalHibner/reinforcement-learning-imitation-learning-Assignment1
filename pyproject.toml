@@ -1,11 +1,8 @@
 [project]
-name = "rl-imitation-learning"
-version = "1.0.0"
-description = "Reinforcement Learning: Imitation Learning on LunarLander-v3 using Behavior Cloning"
+name = "hw1"
+version = "0.1.0"
+description = "Add your description here"
 requires-python = ">=3.12"
-authors = [
-    {name = "TalHibner"}
-]
 dependencies = [
     "gymnasium[box2d]>=1.2.3",
     "ipykernel>=7.2.0",
@@ -19,5 +16,3 @@ dependencies = [
     "torch>=2.11.0",
     "tqdm>=4.67.3",
 ]
-license = {text = "MIT"}
-keywords = ["reinforcement-learning", "imitation-learning", "behavior-cloning", "pytorch"]

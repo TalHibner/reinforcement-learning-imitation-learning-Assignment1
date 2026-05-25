@@ -1,0 +1,8 @@
+link to the notebook:
+https://colab.research.google.com/drive/1ckW3NfiaD-HU2vy-1Mc2CETAraHvBCnx?usp=sharing
+
+Full name student 1: Gilad Ticher
+ID student number 1: 318770039
+
+Full name student 2: Tal Hibner
+ID student number 2: 026548446
